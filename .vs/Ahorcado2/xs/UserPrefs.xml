@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{61BACD9E-21DF-4C13-8DDA-826EC64B8337}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../../Documents/Binding/CocheFantastico/CocheFantastico.cs" line="14" column="12" endLine="14" endColumn="32" offsetX="-1" offsetY="-1" expression="scanner" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.Ahorcado2 PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ahorcado.cs">
+    <Files>
+      <File FileName="Platforms/MacCatalyst/Program.cs" Line="13" Column="1" />
+      <File FileName="Platforms/MacCatalyst/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="MauiProgram.cs" Line="1" Column="1" />
+      <File FileName="MainPage.xaml.cs" Line="57" Column="50" />
+      <File FileName="Ahorcado.cs" Line="67" Column="66" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ahorcado2" expanded="True">
+            <Node name="Ahorcado2" expanded="True">
+              <Node name="Platforms" expanded="True">
+                <Node name="MacCatalyst" expanded="True" />
+              </Node>
+              <Node name="MainPage.xaml.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+</Properties>
